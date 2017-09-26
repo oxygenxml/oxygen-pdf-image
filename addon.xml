@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
     <xt:extension id="oxygenxml.pdfimage">
-        <xt:location href="https://github.com/oxygenxml/oxygenxml.pdfimage.import/archive/master.zip"/>
+        <xt:location href="https://github.com/oxygenxml/oxygenxml.pdfimage/archive/master.zip"/>
         <xt:version>1.0.0</xt:version>
         <xt:oxy_version>18.1+</xt:oxy_version>
         <xt:type>plugin</xt:type>
