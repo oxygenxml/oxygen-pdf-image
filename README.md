@@ -1,7 +1,7 @@
 # oxygenxml.pdfimage
 Oxygen XML Editor does not come bundled by default with libraries which would allow it to render PDF images:
 
-https://www.oxygenxml.com/doc/versions/18.1/ug-editor/topics/import-excel-new-format.html
+https://www.oxygenxml.com/doc/versions/18.1/ug-editor/tasks/installing-pdf-library.html
 
 This plugin contributes additional libraries which allow the Oxygen XML Editor to render PDF images in the Author page.
 
