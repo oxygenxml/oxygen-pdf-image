@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
+    <xt:extension id="oxygenxml.pdfimage">
+        <xt:location href="https://github.com/oxygenxml/oxygenxml.pdfimage.import/archive/master.zip"/>
+        <xt:version>1.0.0</xt:version>
+        <xt:oxy_version>18.1+</xt:oxy_version>
+        <xt:type>plugin</xt:type>
+        <xt:author>Sorin Carbunaru</xt:author>
+        <xt:name>Apache PDFBox libraries</xt:name>
+        <xt:description xmlns="http://www.w3.org/1999/xhtml">Contribute libraries to Oxygen which make it possible to render PDF images in the Author page.</xt:description>
+    </xt:extension>
+</xt:extensions>
