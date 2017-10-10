@@ -1,8 +1,7 @@
 # oxygenxml.pdfimage
-Oxygen XML Editor does not come bundled by default with libraries which would allow it to render PDF images:
-
+oXygen XML Editor does not render PDF images by default in the Author page without following the steps described here:
 https://www.oxygenxml.com/doc/versions/18.1/ug-editor/tasks/installing-pdf-library.html
 
-This plugin contributes additional libraries which allow the Oxygen XML Editor to render PDF images in the Author page.
-
-This plugin's "oxygenxml.pdfimage" folder can either be copied to the "OXYGEN_INSTALL_DIR\plugins" folder or it can be installed as an add on (Oxygen Help menu->Install new add-on) from the location: https://raw.githubusercontent.com/oxygenxml/oxygenxml.pdfimage/master/addon.xml
+This plugin contributes the libraries necessary for enabling oXygen to render PDF images in the Author page. To install it you can choose between the following options:
+- copy the `oxygenxml.pdfimage` folder to `OXYGEN_INSTALL_DIR/plugins`;
+- install it as an add-on (_Oxygen's Help menu_ > _Install new add-ons_) from: https://raw.githubusercontent.com/oxygenxml/oxygenxml.pdfimage/master/addon.xml.
