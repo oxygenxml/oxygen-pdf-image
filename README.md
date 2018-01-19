@@ -8,7 +8,7 @@ This plugin represents an alternate method to the procedure mentioned above. It 
 To install it you can copy the `oxygenxml.pdfimage` folder to `OXYGEN_INSTALL_DIR/plugins` or use the following procedure within Oxygem XML Editor/Author:
 
 1. Go to **Help->Install new add-ons** to open an add-on selection dialog box.
-2. Enter or paste https://raw.githubusercontent.com/oxygenxml/oxygenxml.pdfimage/master/addon.xml in the **Show add-ons from** field or select it from the drop-down menu.
+2. Enter or paste https://raw.githubusercontent.com/oxygenxml/oxygenxml.pdfimage/master/addon.xml in the **Show add-ons from** field.
 3. Select the **ApachePDFBox Libraries** add-on and click **Next**.
 4. Select the **I accept all terms of the end user license agreement** option and click **Finish**.
 5. Restart the application.
