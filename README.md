@@ -1,6 +1,6 @@
 # Render PDF Images in Oxygen Author Mode
 
-Oxygen XML Editor/Author does not render PDF images by default in the Author page, unless you manually add the Apache PDFBox library by following the procedure described in the second method found here:
+Oxygen XML Editor/Author does not render PDF images by default in the Author page, unless you manually add the Apache PDFBox library by following the procedure described here:
 https://www.oxygenxml.com/doc/versions/18.1/ug-editor/tasks/installing-pdf-library.html
 
 This plugin represents an alternate method to the procedure mentioned above. It contributes the libraries necessary for enabling Oxygen to render PDF images in the Author page.
