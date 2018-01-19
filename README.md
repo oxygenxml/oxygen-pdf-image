@@ -5,7 +5,7 @@ https://www.oxygenxml.com/doc/versions/18.1/ug-editor/tasks/installing-pdf-libra
 
 This plugin represents an alternate method to the procedure mentioned above. It contributes the libraries necessary for enabling Oxygen to render PDF images in the Author page.
 
-To install it you can copy the `oxygenxml.pdfimage` folder to `OXYGEN_INSTALL_DIR/plugins` or use the following procedure witin Oxygem XML Editor/Author:
+To install it you can copy the `oxygenxml.pdfimage` folder to `OXYGEN_INSTALL_DIR/plugins` or use the following procedure within Oxygem XML Editor/Author:
 
 1. Go to **Help->Install new add-ons** to open an add-on selection dialog box.
 2. Enter or paste https://raw.githubusercontent.com/oxygenxml/oxygenxml.pdfimage/master/addon.xml in the **Show add-ons from** field or select it from the drop-down menu.
