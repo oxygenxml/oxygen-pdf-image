@@ -1,8 +1,16 @@
-# oxygenxml.pdfimage
-oXygen XML Editor does not render PDF images by default in the Author page, unless you follow the steps described here:
+# Render PDF Images in Oxygen Author Mode
+
+Oxygen XML Editor/Author does not render PDF images by default in the Author page, unless you follow the steps described here:
 https://www.oxygenxml.com/doc/versions/18.1/ug-editor/tasks/installing-pdf-library.html
 
-This plugin represents an alternative to the procedure mentioned above, and it contributes the libraries necessary for enabling oXygen to render PDF images in the Author page. To install it you can choose between the following options:
-- copy the `oxygenxml.pdfimage` folder to `OXYGEN_INSTALL_DIR/plugins`;
-- install it as an add-on (Oxygen's _Help_ menu > _Install new add-ons_) from:
-https://raw.githubusercontent.com/oxygenxml/oxygenxml.pdfimage/master/addon.xml.
+This plugin represents an alternate method to the procedure mentioned above. It contributes the libraries necessary for enabling Oxygen to render PDF images in the Author page.
+
+To install it you can copy the `oxygenxml.pdfimage` folder to `OXYGEN_INSTALL_DIR/plugins` or use the following procedure witin Oxygem XML Editor/Author:
+
+1. Go to **Help->Install new add-ons** to open an add-on selection dialog box.
+2. Enter or paste https://raw.githubusercontent.com/oxygenxml/oxygenxml.pdfimage/master/addon.xml in the **Show add-ons from** field or select it from the drop-down menu.
+3. Select the **ApachePDFBox Libraries** add-on and click **Next**.
+4. Select the **I accept all terms of the end user license agreement** option and click **Finish**.
+5. Restart the application.
+
+Result: The Apache PDFBox libraries are now contributed to the Oxygen installation directory and you should be able to see PDF images in Author mode.
