@@ -14,3 +14,9 @@ To install it you can copy the `oxygenxml.pdfimage` folder to `OXYGEN_INSTALL_DI
 5. Restart the application.
 
 Result: The Apache PDFBox libraries are now contributed to the Oxygen installation directory and you should be able to see PDF images in Author mode.
+
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/oxygen-pdf-image/blob/master/LICENSE)
