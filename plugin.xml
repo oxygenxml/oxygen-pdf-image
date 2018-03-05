@@ -1,7 +1,7 @@
 <!DOCTYPE plugin PUBLIC "-//Oxygen Plugin" "../plugin.dtd">
 <plugin
  id="oxygenxml.pdfimage"
- name="oXygen PDF Image Rendering Plug-in."
+ name="PDF Image Rendering"
  description="Contribute libraries to oXygen to make it able to render PDF images in the Author page."
  version="1.0"
  vendor="Sorin Carbunaru"

@@ -8,7 +8,48 @@
         <xt:oxy_version>18.1+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Sorin Carbunaru</xt:author>
-        <xt:name>Apache PDFBox libraries</xt:name>
-        <xt:description xmlns="http://www.w3.org/1999/xhtml">Contribute libraries to Oxygen which make it possible to render PDF images in the Author page.</xt:description>
+        <xt:name>PDF Image Rendering</xt:name>
+        <xt:description xmlns="http://www.w3.org/1999/xhtml">
+            <html>
+                <head>
+                    <title>PDF Image Rendering</title>
+                </head>
+                <body>
+                    <p>Contribute libraries to Oxygen which make it possible to render PDF images in the Author page.</p>
+                    <p>For more details, please visit the project location: <a href="https://github.com/oxygenxml/oxygen-pdf-image">
+                        https://github.com/oxygenxml/oxygen-pdf-image</a></p>
+                </body>
+            </html>
+        </xt:description>
+        <xt:license>
+            Copyright 2018 Syncro Soft SRL
+            
+            Licensed under the Apache License, Version 2.0 (the "License");
+            you may not use this file except in compliance with the License.
+            You may obtain a copy of the License at
+            
+            http://www.apache.org/licenses/LICENSE-2.0
+            
+            Unless required by applicable law or agreed to in writing, software
+            distributed under the License is distributed on an "AS IS" BASIS,
+            WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+            See the License for the specific language governing permissions and
+            limitations under the License.
+            
+            The Plugin may include certain of the following third party software components.
+            The copyright notices, disclaimers and license terms applicable to such third party software components are listed below:
+            
+            fontbox-2.0.7.jar
+            Site: https://pdfbox.apache.org/
+            License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+            
+            pdfbox-2.0.7.jar
+            Site: http://pdfbox.apache.org/
+            License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+            
+            xmpbox-2.0.7.jar
+            Site: http://pdfbox.apache.org/
+            License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+        </xt:license>
     </xt:extension>
 </xt:extensions>
