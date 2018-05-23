@@ -4,7 +4,7 @@
  name="PDF Image Rendering"
  description="Contribute libraries to oXygen to make it able to render PDF images in the Author page."
  version="1.0"
- vendor="Sorin Carbunaru"
+ vendor="Syncro Soft SRL"
  class="ro.sync.exml.plugin.Plugin"
  classLoaderType="preferReferencedResources">
  <extension type="WorkspaceAccessJS" href="wsAccess.js"/>
