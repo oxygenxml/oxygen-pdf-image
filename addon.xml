@@ -7,7 +7,7 @@
         <xt:version>1.0.0</xt:version>
         <xt:oxy_version>18.1+</xt:oxy_version>
         <xt:type>plugin</xt:type>
-        <xt:author>Sorin Carbunaru</xt:author>
+        <xt:author>Syncro Soft SRL</xt:author>
         <xt:name>PDF Image Rendering</xt:name>
         <xt:description xmlns="http://www.w3.org/1999/xhtml">
             <html>
