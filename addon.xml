@@ -15,8 +15,8 @@
                     <title>PDF Image Rendering</title>
                 </head>
                 <body>
-                    <p>Contribute libraries to Oxygen which make it possible to render PDF images in the Author page.</p>
-                    <p>For more details, please visit the project location: <a href="https://github.com/oxygenxml/oxygen-pdf-image">
+                    <p>This add-on contributes additional libraries that make it possible to render PDF images in Oxygen's Author mode.</p>
+                    <p>For more details, see: <a href="https://github.com/oxygenxml/oxygen-pdf-image">
                         https://github.com/oxygenxml/oxygen-pdf-image</a></p>
                 </body>
             </html>
