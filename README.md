@@ -10,7 +10,7 @@ To install it you can copy the `oxygenxml.pdfimage` folder to `OXYGEN_INSTALL_DI
 1. Go to **Help->Install new add-ons** to open an add-on selection dialog box.
 2. Enter or paste https://raw.githubusercontent.com/oxygenxml/oxygenxml.pdfimage/master/addon.xml in the **Show add-ons from** field.
 3. Select the **PDF Image Rendering** add-on and click **Next**.
-4. Select the **I accept all terms of the end user license agreement** option and click **Finish**.
+4. Read the end-user license agreement. Then select the **I accept all terms of the end-user license agreement** option and click **Finish**.
 5. Restart the application.
 
 Result: The Apache PDFBox libraries are now contributed to the Oxygen installation directory and you should be able to see PDF images in Author mode.
